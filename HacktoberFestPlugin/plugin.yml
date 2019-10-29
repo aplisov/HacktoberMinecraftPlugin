@@ -1,0 +1,8 @@
+name: HacktoberFestPlugin
+description:
+main: me.plugin.Enable
+version: 1.0
+author: TheHardestBunnyAlive
+commands:
+  command:
+    description:
